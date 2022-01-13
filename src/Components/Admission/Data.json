@@ -1,0 +1,47 @@
+[
+  {
+    "id":1,
+    "level":"100L",
+    "Application-form":"N10,000",
+    "Registration and Admin Fee":"40,000",
+    "Fee for verification Of result":"N10,000 for all course",
+    "Tution Fee Per semester":"170",
+    "Total":"N230,000"
+  },
+  {
+    "id":2,
+    "level":"200L",
+    "Application-form":"-",
+    "Registration and Admin Fee":"50,000",
+    "Fee for verification Of result":"-",
+    "Tution Fee Per semester":"170",
+    "Total":"N270,000"
+  },
+  {
+    "id":3,
+    "level":"300L",
+    "Application-form":"-",
+    "Registration and Admin Fee":"50,000",
+    "Fee for verification Of result":"-",
+    "Tution Fee Per semester":"250",
+    "Total":"N310,000"
+  },
+  {
+    "id":4,
+    "level":"400L",
+    "Application-form":"-",
+    "Registration and Admin Fee":"50,000",
+    "Fee for verification Of result":"-",
+    "Tution Fee Per semester":"250,000",
+    "Total":"N310,000"
+  },
+  {
+    "id":5,
+    "level":"",
+    "Application-form":"low",
+    "Registration and Admin Fee":"70,000",
+    "Fee for verification Of result":"10,00",
+    "Tution Fee Per semester":"450 000",
+    "Total":"N510,000"
+  }
+]

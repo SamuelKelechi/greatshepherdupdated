@@ -19,7 +19,7 @@ function Learn() {
            imgpath={pix}
            text="Flexible Teaching Structure"
            con="
-                Students expectations and aspirations are readily met on time record
+              
            
               "
            />
@@ -31,8 +31,7 @@ function Learn() {
           imgpath={pix2}
           text="Learning made easy"
           con="
-                Focused on the total transformation of human capacity using qualified
-                team of staff and modern technological devices
+               
               "
           />
           <Card 
@@ -40,12 +39,8 @@ function Learn() {
           color="#fffeff" 
           flexdirection="column" 
           imgpath={pix3}
-          text="Interative student union"
-          con=" Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
-          molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum
-          numquam blanditiis harum quisquam eius sed
-          molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum
-          numquam blanditiis harum quisquam eius sed "
+          text="Interactive student union"
+          con=""
           />
           <Card 
           background="#30a8fc" 
@@ -53,11 +48,7 @@ function Learn() {
           flexdirection="column-reverse;" 
           imgpath={pix4}
           text="Conducive  Learning Environment"
-          con=" Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
-          molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum
-          numquam blanditiis harum quisquam eius sed
-          molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum
-          numquam blanditiis harum quisquam eius sed "
+          con="  "
           />
         </DivCon>
 

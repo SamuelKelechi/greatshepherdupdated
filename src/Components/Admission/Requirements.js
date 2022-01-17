@@ -14,8 +14,8 @@ const Requirements = () => {
 							<AiFillCheckCircle />
 						</span>
 						<Text>
-							A copy of O'Level result with five credits in not more than two
-							sitting
+							A copy of O'Level result (WAEC, NECO) in not more than two sittings including
+							English Language and Mathematics.
 						</Text>
 					</TextHold>
 					<TextHold>
@@ -31,7 +31,7 @@ const Requirements = () => {
 							<AiFillCheckCircle />
 						</span>
 						<Text>
-							Four passport photograph with coloured background in A4 envelope.
+							Four passport size photographs with coloured background in an A4 envelope.
 						</Text>
 					</TextHold>
 				</FirstComp>
@@ -42,7 +42,7 @@ const Requirements = () => {
 							<AiFillCheckCircle />
 						</span>
 						<Text>
-							Travelling documents (international passport or ecowas passport)
+							Travelling documents (international passport only)
 						</Text>
 					</TextHold>
 					<TextHold>
@@ -50,7 +50,14 @@ const Requirements = () => {
 						<span>
 							<AiFillCheckCircle />
 						</span>
-						<Text>Two passport photograph of sponsors</Text>
+						<Text>Two passport photographs of sponsors</Text>
+					</TextHold>
+					<TextHold>
+						{" "}
+						<span>
+							<AiFillCheckCircle />
+						</span>
+						<Text>A rim of A4 size paper</Text>
 					</TextHold>
 					<TextHold>
 						{" "}
@@ -58,8 +65,8 @@ const Requirements = () => {
 							<AiFillCheckCircle />
 						</span>
 						<Text>
-							Those for direct entry and convocation the above requirements
-							should be accomplished
+							Those with direct entry and conversion, the above requirements
+							should be accompanied.
 						</Text>
 					</TextHold>
 				</FirstComp>
@@ -89,7 +96,7 @@ const Requirements = () => {
 								<AiFillCheckCircle />
 							</span>
 							<Texting>
-								Well ventured lecture room with modern furniture and spacious
+								Well ventilated lecture rooms with modern furniture and spacious
 								arena to guarantee comfort{" "}
 							</Texting>
 						</TextHold>
@@ -115,8 +122,7 @@ const Requirements = () => {
 								<AiFillCheckCircle />
 							</span>
 							<Texting>
-								ICT Programmers with new horizon to more students more ICT
-								COMPLAINT
+								ICT Programmes with new horizon to make our students more I.C.T Compliance.
 							</Texting>
 						</TextHold>
 						<TextHold>
@@ -133,7 +139,7 @@ const Requirements = () => {
 								<AiFillCheckCircle />
 							</span>
 							<Texting>
-								Language laboratory with good device to ensure the best form of
+								Language laboratory with new devices to ensure the best form of
 								learning by beginners
 							</Texting>
 						</TextHold>
@@ -171,7 +177,7 @@ const Requirements = () => {
 					<Card1 bg='#ff512f'>
 						{" "}
 						<FirstComp>
-							<h3>ADMISSION PROCESS</h3>
+							<h3>ADMISSION PROCESSING</h3>
 							<TextHold>
 								{" "}
 								<span>
@@ -194,10 +200,10 @@ const Requirements = () => {
 									<br />
 									<br />
 									<span style={{ fontWeight: "bold" }}>
-										for inquires contact
+										for inquiries contact
 									</span>{" "}
 									<br /> +229 642 51703, +234 706 294 4349 <br /> +229 6092
-									5020, +229 6666 6774 <br /> Email : espadmission@gmail.com
+									5020, +229 6666 6774 <br /> Email : esepgsadmissions@gmail.com
 								</Texting>
 							</TextHold>
 						</FirstComp>
@@ -210,7 +216,14 @@ const Requirements = () => {
 
 export default Requirements;
 
-const SecondHold = styled.div``;
+const SecondHold = styled.div`
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	@media screen and (max-width: 750px){
+		width: 100%
+	}
+`;
 const CardHold = styled.div`
 	/* padding-bottom: 30px; */
 	display: flex;

@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-
+import {Link} from 'react-router-dom'
 import img from "./img/back.jpg"
 
 function Think() {
@@ -17,10 +17,11 @@ function Think() {
             We are keen on meeting students expectations and aspirations on record time.
          </Contentt>
 
-         <ButtonCon>
-              EXPLORE PROGRAM OFFERINGS
-         </ButtonCon>
-
+        <Link to='/admission' style={{textDecoration:"none"}}>
+          <ButtonCon>
+                EXPLORE PROGRAM OFFERINGS
+          </ButtonCon>
+        </Link>
        </Allcom>
      </Wrapper>
    </Container>

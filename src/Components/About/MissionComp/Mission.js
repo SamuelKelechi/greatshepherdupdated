@@ -11,9 +11,7 @@ function Mission() {
                         OUR MISSION STATEMENT
                     </Title>
                     <Text>
-                        To receive students and provide access to knowledge through which cognitive, social and
-                        spiritual understanding are enhanced resulting in responsible personalities full of life
-                        and value to themselves and humanity.
+                        Our Mission is "To receive students and provide access to knowledge through which cognitive,social,cultural,attitudinal and spiritual understanding are enhanced resulting in responsible personalities full of life and value to themselves and humanity".
                     </Text>
                 </VisionWrapper>
             </VisionContain> 

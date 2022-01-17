@@ -7,8 +7,8 @@ import Requirements from "./Requirements";
 const AdmissionComp = () => {
 	return (
 		<Container>
-			<h3>ACCREDITED COURSE/PROGRAMS OFFERRED</h3>
-			<p>which enables student of Nigeria extraction for Nysc mobilization.</p>
+			<h3>ACCREDITED COURSES/PROGRAMS</h3>
+			<p>which enable student of Nigerian extraction to go for NYSC.</p>
 			<MainWrapper>
 				<FirstComp>
 					<TextHold>
@@ -39,10 +39,24 @@ const AdmissionComp = () => {
 						<span>
 							<AiFillCheckCircle />
 						</span>
-						<Text>Transportation & logistic movement</Text>
+						<Text>Mass Communication</Text>
+					</TextHold>
+					<TextHold>
+						{" "}
+						<span>
+							<AiFillCheckCircle />
+						</span>
+						<Text>Human Resource Management</Text>
 					</TextHold>
 				</FirstComp>
 				<FirstComp>
+					<TextHold>
+						{" "}
+						<span>
+							<AiFillCheckCircle />
+						</span>
+						<Text>Transportation & logistic movement</Text>
+					</TextHold>
 					<TextHold>
 						{" "}
 						<span>
@@ -76,6 +90,13 @@ const AdmissionComp = () => {
 					</TextHold>
 				</FirstComp>
 				<FirstComp>
+					<TextHold>
+						{" "}
+						<span>
+							<AiFillCheckCircle />
+						</span>
+						<Text>Psychology</Text>
+					</TextHold>
 					<TextHold>
 						{" "}
 						<span>

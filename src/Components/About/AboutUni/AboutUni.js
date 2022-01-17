@@ -11,7 +11,7 @@ function AboutUni() {
                     <LeftCard>
                     </LeftCard>
                     <RightCard>
-                        The Great Shepherd University Republic of Benin is a private institution established by law. Approved and Accredited on the 18 October,1999 by Decree No:0136/MENRS/CAB/DC/SP.
+                        The Great Shepherd University Porto-Novo Republic of Benin is a private institution established by law. Approved and Accredited on the 18 October,1999 by Decree No:0136/MENRS/CAB/DC/SP.
                         It has an operational license given by the government of Benin Republic and has graduated several
                         sets since its establishment in 1999.
                         <br/>
@@ -74,7 +74,7 @@ const LeftCard = Styled.div`
 `
 
 const RightCard = Styled.div`
-    height: 400px;
+    // height: 400px;
     width: 650px;
     // background-color: red;
     border-radius: 5px;

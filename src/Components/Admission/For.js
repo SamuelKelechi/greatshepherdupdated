@@ -25,19 +25,18 @@ function For() {
           </Flag>
 
         </Allflag> */}
-        <Title>FORIGN PARTNERS UNIVERSITY/INSTITUTION</Title>
+        <Title>FOREIGN PARTNERS(AFFILIATED UNIVERSITIES)/INSTITUTIONS</Title>
         {/* <Arr>Accredited course through affiliation with forign partner universities in Cameroon, France<br/>
         ************************
         </Arr> */}
         <Text>
-          <span>1.Low</span>
-          <span>2.Top-up programmed in environmental sciences (Public & Allied Health)</span>
-          <span>3.Registered Nurse, Midwife Top-up Programme</span>
-          <span>4.Educational Management</span>
-          <span>5.M.SC, MA & MBA</span>
-          <span>6.Ph.D.</span>
-          <span>2.Top-up programmed in environmental sciences (Public & Allied Health)</span>
-          <span>2.Top-up programmed in environmental sciences (Public & Allied Health)</span>
+          <span>1.Esep le Berger Universite Benin Republic</span>
+          <span>2.Bamenda University of Science and Technology (BUST)</span>
+          <span>3.University of Yaounde Cameroon</span>
+          <span>4.International University of Bamenda Cameroon</span>
+          <span>5.The Institute of Entrepreneurs Nigeria</span>
+          <span>6.Merchant Marine Training Academy Apapa, Lagos Nigeria</span>
+          <span>7.The Chartered Institute of Administration Nigeria</span>
 
         </Text>
         
@@ -95,7 +94,7 @@ color: white;
 `
 
 const Title = styled.div`
-width: 50%;
+width: 70%;
 height: auto;
 display: flex;
 justify-content:center;
@@ -107,7 +106,7 @@ margin-top: 5px;
 
 @media screen and (max-width:1024px){
   width: 90%;
-  font-size: 50px;
+  font-size: 40px;
   text-align: center;
   
 }
@@ -220,7 +219,7 @@ justify-content:center */
 
 const Container = styled.div`
 width: 100%;
-height: 400px;
+// height: 400px;
 /* background-image: url(${img}); */
 background-repeat: repeat-y;
 background-size: cover;
@@ -229,7 +228,8 @@ background-size: cover;
 const Wrapper = styled.div`
 
 width: 100%;
-height: 400px;
+padding: 30px 0;
+// height: 400px;
 background-color: #f6013e;
 /* opacity: 0.9; */
 display: flex;

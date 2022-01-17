@@ -16,18 +16,20 @@ function App() {
 		<>
 			<GlobalProvider>
 				<Router>
+					
 					<HeaderComponent />
-					<Routes>
-						<Route path='/' element={<Home />} />
-						<Route path='/about' element={<About />} />
-						<Route path='/signup' element={<Signup />} />
-						<Route path='/admission' element={<Admission />} />
-						<Route path='/contact' element={<Contact />} />
-						<Route path='/studentDashboard' element={<StudentDash />} />
-						<Route path='/adminSignup' element={<AdminSignUp />} />
-						<Route path='/adminDashboard' element={<AdminDash />} />
-					</Routes>
+						<Routes>
+							<Route path='/' element={<Home />} />
+							<Route path='/about' element={<About />} />
+							<Route path='/signup' element={<Signup />} />
+							<Route path='/admission' element={<Admission />} />
+							<Route path='/contact' element={<Contact />} />
+							<Route path='/studentDashboard' element={<StudentDash />} />
+							<Route path='/adminSignup' element={<AdminSignUp />} />
+							<Route path='/adminDashboard' element={<AdminDash />} />
+						</Routes>
 					<Footer />
+					
 				</Router>
 			</GlobalProvider>
 		</>

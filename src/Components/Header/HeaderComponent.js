@@ -35,7 +35,7 @@ const HeaderComponent = () => {
 							<span>Home</span>
 						</Link>
 					</a>
-					<a>
+					<a>	
 						<Link
 							to='/about'
 							style={{ color: "white", textDecoration: "none" }}>

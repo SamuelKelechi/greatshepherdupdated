@@ -10,6 +10,7 @@ const ProfCourse = () => {
 				<ImageHold src={pic1} />
 				<FirstComp>
 					<h2>PROFESSIONAL COURSES (B.Sc.)</h2>
+					<h3 style={{marginTop:"-15px"}}>Professional Courses through affiliation</h3>
 					<TextHold>
 						{" "}
 						<span>
@@ -70,13 +71,13 @@ const ProfCourse = () => {
 			</MainHold>
 			<MainHold>
 				<FirstComp>
-					<h2>PROFESSIONAL MASTER (M.Sc.)</h2>
+					<h2>PROFESSIONAL MASTERS (M.Sc.)</h2>
 					<TextHold>
 						{" "}
 						<span>
 							<AiFillCheckCircle />
 						</span>
-						<Text>Criminology & Security Pychology</Text>
+						<Text>Criminology & Security Psychology</Text>
 					</TextHold>
 					<TextHold>
 						{" "}
@@ -90,7 +91,7 @@ const ProfCourse = () => {
 						<span>
 							<AiFillCheckCircle />
 						</span>
-						<Text>Legal & Criminology Psychology</Text>
+						<Text>Legal & Crimological Psychology</Text>
 					</TextHold>
 				</FirstComp>
 				<ImageHold src={pic2} />

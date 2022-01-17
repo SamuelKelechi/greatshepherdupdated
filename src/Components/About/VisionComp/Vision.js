@@ -12,8 +12,7 @@ function Vision() {
                         OUR VISION
                     </Title>
                     <Text>
-                        The Vision of Great Shepherd University is to remain a reference institution of higher learning focused on creating
-                        genuine graduates with distinctive academic and professional competencies.
+                    Our Vision is "To remain a reference institution of higher education focused on creating genuine graduates equipped with dinstinctive academic and professional competence".
                     </Text>
                 </VisionWrapper>
             </VisionContain>

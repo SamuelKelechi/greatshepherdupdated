@@ -17,7 +17,7 @@ const QuickStart = () => {
                         We are focused on creating genuine graduates equipped with distinctive academic and professional competencies .
                         <br />
                         <br />
-                        The Great Shepherd University (ESEP-LE BENIN) PORTO NOVO Republic of Benin is a private institution established by Law. It has an operational license given by the government of Benin Republic and has graduated several sets since its establishment in 1999. The University is therefore calling for application from suitably qualified candidates for admission into Diploma, Degree and Postgraduate Degrees.
+                        The Great Shepherd University (ESEP-LE BERGER) PORTO NOVO Republic of Benin is a private institution established by Law. It has an operational license given by the government of Benin Republic and has graduated several sets since its establishment in 1999. The University is therefore calling for application from suitably qualified candidates for admission into Diploma, Degree and Postgraduate Degrees.
                     </OtherText>
                 </TextHolder>
 

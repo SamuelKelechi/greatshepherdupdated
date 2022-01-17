@@ -24,23 +24,22 @@ function Inter() {
 						<img src={flag4} />
 					</Flag>
 				</Allflag>
-				<Title>INTERNATIONAL APPLICATION</Title>
+				<Title>INTERNATIONAL AFFILIATION</Title>
 				<Arr>
-					Accredited course through affiliation with forign partner universities
+					Accredited course through affiliation with our principal partner, Esep Le Berger and foreign partner universities
 					in Cameroon, France
 					<br />
 					************************
 				</Arr>
 				<Text>
-					<span>1.Low</span>
+					<span>1.Law</span>
 					<span>
-						2.Top-up programmed in environmental sciences (Public & Allied
+						2.Top-up programmes in environmental sciences (Public & Allied
 						Health)
 					</span>
-					<span>3.Registered Nurse, Midwife Top-up Programme</span>
-					<span>4.Educational Management</span>
-					<span>5.M.SC, MA & MBA</span>
-					<span>6.Ph.D.</span>
+					<span>3.Educational Management</span>
+					<span>4.M.SC, MA & MBA</span>
+					<span>5.Ph.D.</span>
 				</Text>
 			</Wrapper>
 		</Container>

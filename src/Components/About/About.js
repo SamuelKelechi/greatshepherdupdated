@@ -16,7 +16,8 @@ function About() {
         <Hero />
         <AboutUni />
         <WhyUni />
-        <Objective />
+        <br/>
+        {/* <Objective /> */}
         <Vision />
         <Values />
         <Mission />
